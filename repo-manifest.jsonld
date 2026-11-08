@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/deepset-ai/hayhooks/commit/3c574973d4354df5355753845d7d45066e44d7c3",
       "git:hexsha": "3c574973d4354df5355753845d7d45066e44d7c3",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v2.2.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.2.0",
+      "repolex:parsedAt": "2026-11-08T02:35:14.986775+00:00"
     },
     {
       "@id": "https://repolex.ai/r/deepset-ai/hayhooks/commit/3c1014548d68c4d8b47c9fcffae5260158a53a70",
