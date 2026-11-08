@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/deepset-ai/hayhooks/commit/3c574973d4354df5355753845d7d45066e44d7c3",
       "git:hexsha": "3c574973d4354df5355753845d7d45066e44d7c3",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.2.0"
     },
     {
