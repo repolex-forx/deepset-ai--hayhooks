@@ -1,0 +1,11 @@
+{
+  "org": "deepset-ai",
+  "repo": "hayhooks",
+  "versions": [
+    {
+      "commit": "3c574973d4354df5355753845d7d45066e44d7c3",
+      "tag": "v2.2.0",
+      "parsed_at": "2026-11-08T02:35:14.987527+00:00"
+    }
+  ]
+}
